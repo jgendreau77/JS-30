@@ -3,8 +3,8 @@
 https://github.com/jgendreau77/JS-30.git
 
 - JS Drum Kit - Complete
-- JS & CSS Clock - Complete
-- CSS Variables - 
+- JS & CSS Clock - Complete - Time not correct
+- CSS Variables - Complete
 - Array Cardio 1 - 
 - Flex Panel Gallery - 
 
